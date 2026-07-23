@@ -126,7 +126,7 @@ Future updates may include:
 Electrical & Electronics Engineer | Cybersecurity Analyst | SOC Analyst | Network Security Enthusiast
 
 - GitHub: https://github.com/Ayilara1
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: *(http://www.linkedln.com/in/busari-ayilara)*
 
 ---
 
